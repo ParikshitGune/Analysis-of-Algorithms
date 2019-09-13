@@ -58,5 +58,12 @@ print ('It took', time.time()-start, 'seconds.')
 array.sort()
 print(array[element-1])
 
+'''
+output:
 
-
+parikshit@parikshit-Lenovo-ideapad-330-15IKB:~/Documents/M-Tech Sem 1/Algo/Lab work/K_th smallest$ python3 K_smallest.py
+[154473, 489295, 161529, 332616, 208826, 352132, 445899, 267759,...........,238504, 46298, 359438, 112808, 125972, 77345]
+Enter a number to search :89
+458
+It took 0.07266855239868164 seconds.
+'''
